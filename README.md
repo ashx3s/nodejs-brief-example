@@ -8,7 +8,7 @@ This code demo shows the basics of using npm and setting up a node project. Tool
 4. run the file with `node index.js`
 5. create a script in the `package.json` to run it
     - `npm run dev` from the command line
-6. install a dependency like express with `npm i express`o
+6. install a dependency like express with `npm i express`
 7. hide the node_modules from git by adding to `.gitignore`
 8. copy server code from express and use it in your `index.js` file [express server demo](https://expressjs.com/)
 9. Try running it
